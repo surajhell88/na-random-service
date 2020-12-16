@@ -1,3 +1,40 @@
 {
-  "people": []
+  "people": [
+    {
+      "name": "Azhir",
+      "id": 1
+    },
+    {
+      "name": "Sallar",
+      "id": 2
+    },
+    {
+      "name": "Reza",
+      "id": 3
+    },
+    {
+      "name": "Sorina",
+      "id": 4
+    },
+    {
+      "name": "Hossein",
+      "id": 5
+    },
+    {
+      "name": "Konsti",
+      "id": 6
+    },
+    {
+      "name": "Suraj",
+      "id": 7
+    },
+    {
+      "name": "Milad",
+      "id": 8
+    },
+    {
+      "name": "Davood",
+      "id": 9
+    }
+  ]
 }
